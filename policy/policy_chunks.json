@@ -1,0 +1,295 @@
+[
+  {
+    "clause_id": "FRONT-MATTER",
+    "title": "Policy Information",
+    "text": "GENERAL RETAIL LENDING CREDIT POLICY\nPolicy Reference: CRP-GL-001\nPolicy Owner: Credit Risk Department\nVersion: 1.0\nClassification: Internal Policy Manual\nCurrency: United States Dollars (USD)",
+    "pages": [
+      1
+    ],
+    "part": 1
+  },
+  {
+    "clause_id": "1",
+    "title": "Purpose and Scope",
+    "text": "1. Purpose and Scope\nThis policy establishes the standards and procedures governing the assessment, approval, rejection\nand review of general retail loan applications. Its purpose is to ensure that lending decisions are\nconsistent, prudent, transparent and supported by an applicant's verified financial circumstances.\nThe policy applies to individual applicants seeking retail credit for permitted purposes. Additional\nrequirements may apply to specific loan products, purposes, amounts and repayment tenures.\nAll monetary amounts in this policy are expressed in United States dollars (USD).",
+    "pages": [
+      1
+    ],
+    "part": 1
+  },
+  {
+    "clause_id": "2",
+    "title": "Applicant Eligibility and Verification",
+    "text": "2. Applicant Eligibility and Verification",
+    "pages": [
+      1
+    ],
+    "part": 1
+  },
+  {
+    "clause_id": "2.1",
+    "title": "Legal Eligibility",
+    "text": "2.1 Legal Eligibility\nApplicants must satisfy the applicable legal age of 18 years and above, contractual capacity and\nresidency requirements for the credit product concerned.",
+    "pages": [
+      1
+    ],
+    "part": 1
+  },
+  {
+    "clause_id": "2.2",
+    "title": "Identity and Documentation",
+    "text": "2.2 Identity and Documentation\nApplicants must provide valid identity documentation and all information reasonably required to\nassess the application, including income, employment, monthly expenses, existing liabilities and\nrequested loan details.",
+    "pages": [
+      1
+    ],
+    "part": 1
+  },
+  {
+    "clause_id": "2.3",
+    "title": "Verification Requirements",
+    "text": "2.3 Verification Requirements\nMaterial information must be verified using appropriate documentation or approved verification\nprocedures. Applications containing material inconsistencies, suspected misrepresentation or\nunresolved information gaps must be referred for further assessment.\nAn application must not be declined solely because information is temporarily unavailable where the\nmatter can reasonably be resolved through clarification or additional documentation.",
+    "pages": [
+      1
+    ],
+    "part": 1
+  },
+  {
+    "clause_id": "3",
+    "title": "Creditworthiness and Repayment History",
+    "text": "3. Creditworthiness and Repayment History",
+    "pages": [
+      1
+    ],
+    "part": 1
+  },
+  {
+    "clause_id": "3.1",
+    "title": "Credit Score Assessment",
+    "text": "3.1 Credit Score Assessment\nCredit score is a principal consideration in assessing an applicant's creditworthiness.\nThe following standards apply to the standard assessment process:\n•\nCredit score of 650 or above: Meets the minimum credit-score standard, subject to the\nremaining eligibility and affordability requirements.\n•\nCredit score from 600 to 649: Requires enhanced assessment and manual review.\n•\nCredit score below 600: Normally results in decline under the standard lending criteria. An\nexception may be considered only where permitted by the authorised exception process.\nMeeting the minimum credit-score standard does not guarantee approval.",
+    "pages": [
+      1,
+      2
+    ],
+    "part": 1
+  },
+  {
+    "clause_id": "3.2",
+    "title": "Credit History",
+    "text": "3.2 Credit History\nThe bank shall consider available information regarding previous repayment performance, overdue\nobligations, defaults and other material adverse credit events.\nSignificant adverse repayment history may result in decline or enhanced review, depending on the\nseverity, recency and circumstances of the event.",
+    "pages": [
+      2
+    ],
+    "part": 1
+  },
+  {
+    "clause_id": "3.3",
+    "title": "Incomplete Credit History",
+    "text": "3.3 Incomplete Credit History\nWhere an applicant has insufficient credit history to support a reliable assessment, the application\nshall be evaluated using other verified financial information and referred for manual review where\nnecessary.",
+    "pages": [
+      2
+    ],
+    "part": 1
+  },
+  {
+    "clause_id": "4",
+    "title": "Income and Financial Stability",
+    "text": "4. Income and Financial Stability",
+    "pages": [
+      2
+    ],
+    "part": 1
+  },
+  {
+    "clause_id": "4.1",
+    "title": "Income Verification",
+    "text": "4.1 Income Verification\nApplicants must demonstrate a verifiable and reasonably stable source of income sufficient to\nsupport the proposed credit obligation.\nAcceptable income sources may include employment income, self-employment earnings and other\nlawful, verifiable recurring income.",
+    "pages": [
+      2
+    ],
+    "part": 1
+  },
+  {
+    "clause_id": "4.2",
+    "title": "Income Reference Standard",
+    "text": "4.2 Income Reference Standard\nAnnual verified income of $30,000 is the standard reference level for general retail lending\nassessment.\nApplications below this level require enhanced assessment of the requested amount, repayment\ntenure, essential living expenses and remaining repayment capacity. Lower income alone shall not be\ntreated as proof of inability to repay where the applicable product criteria permit consideration of\nother evidence.",
+    "pages": [
+      2
+    ],
+    "part": 1
+  },
+  {
+    "clause_id": "4.3",
+    "title": "Income Stability",
+    "text": "4.3 Income Stability\nThe bank shall assess the continuity, reliability and verifiability of the applicant's income. Where\nincome is irregular, recently commenced or insufficiently documented, additional evidence may be\nrequired before a final decision is made.",
+    "pages": [
+      2
+    ],
+    "part": 1
+  },
+  {
+    "clause_id": "5",
+    "title": "Existing Financial Commitments and Affordability",
+    "text": "5. Existing Financial Commitments and Affordability",
+    "pages": [
+      2
+    ],
+    "part": 1
+  },
+  {
+    "clause_id": "5.1",
+    "title": "Expense-to-Income Assessment",
+    "text": "5.1 Expense-to-Income Assessment\nThe bank shall assess the proportion of gross monthly income committed to the applicant's reported\nmonthly expenses and existing financial obligations.\nExpense-to-Income Ratio (%) = (Total Monthly Expenses / Gross Monthly Income) × 100\nThe standard assessment bands are:\n•\nUp to 40%: Generally acceptable, subject to the remaining criteria.\n•\nAbove 40% and up to 60%: Requires enhanced affordability assessment and manual review.\n•\nAbove 60%: Normally results in decline unless a documented exception is authorised.\nThe assessment must consider whether the applicant retains sufficient income to meet essential\nliving costs and the proposed repayment obligation.",
+    "pages": [
+      2,
+      3
+    ],
+    "part": 1
+  },
+  {
+    "clause_id": "5.2",
+    "title": "Remaining Monthly Income",
+    "text": "5.2 Remaining Monthly Income\nRemaining monthly income is calculated as follows:\nRemaining Monthly Income = Gross Monthly Income − Total Monthly Expenses\nThe applicant must demonstrate sufficient remaining income to support the proposed repayment.\n•\nPositive remaining income is necessary but not sufficient for approval.\n•\nZero or negative remaining income triggers additional assessment.\n•\nIf the shortfall is confirmed and no adequate repayment capacity can be established, the\napplication shall normally be declined.",
+    "pages": [
+      3
+    ],
+    "part": 1
+  },
+  {
+    "clause_id": "5.3",
+    "title": "Proposed Loan Repayment Affordability",
+    "text": "5.3 Proposed Loan Repayment Affordability\nThe bank shall assess the proposed monthly repayment in relation to the applicant's remaining\nmonthly income.\nRepayment-to-Surplus Ratio (%) = (Proposed Monthly Loan Repayment / Remaining Monthly\nIncome) × 100\nWhere remaining monthly income is positive, the following standards apply:\n•\nUp to 30%: Generally acceptable on this criterion.\n•\nAbove 30% and up to 50%: Requires manual review.\n•\nAbove 50%: Normally results in decline or escalation for an authorised exception.\nWhere remaining monthly income is zero or negative, this ratio must not be calculated as an ordinary\npercentage measure. The application must be assessed under Clause 5.2.",
+    "pages": [
+      3
+    ],
+    "part": 1
+  },
+  {
+    "clause_id": "5.4",
+    "title": "Repayment Calculation",
+    "text": "5.4 Repayment Calculation\nThe proposed monthly repayment shall be calculated using the applicable interest rate, repayment\ntenure and repayment structure.\nA principal-only estimate shall not be treated as the contractual monthly instalment where interest\nor other applicable charges affect the repayment amount.",
+    "pages": [
+      3
+    ],
+    "part": 1
+  },
+  {
+    "clause_id": "5.5",
+    "title": "Existing Debt Relative to Income",
+    "text": "5.5 Existing Debt Relative to Income\nExisting indebtedness shall be assessed relative to annual verified income.\nOutstanding Debt-to-Income Ratio (%) = (Total Outstanding Debt / Annual Gross Income) × 100\nThe following bands apply as supporting indicators:\n•\nUp to 30%: Generally acceptable as a supporting indicator.\n•\nAbove 30% and up to 50%: Requires closer assessment of existing obligations and\nrepayment capacity.\n•\nAbove 50%: Requires heightened scrutiny and documented assessment.\nThese bands do not independently determine the final decision. The bank shall consider the nature\nof the liabilities, current repayment obligations and the applicant's overall financial position.",
+    "pages": [
+      3,
+      4
+    ],
+    "part": 1
+  },
+  {
+    "clause_id": "5.6",
+    "title": "Existing Loan Exposure",
+    "text": "5.6 Existing Loan Exposure\nTotal existing loan amount relative to annual income shall be assessed as an additional indicator of\ncredit exposure.\nExisting Loan Amount-to-Income Ratio (%) = (Total Existing Loan Amount / Annual Gross Income) ×\n100\nRatios above 50% require additional scrutiny of the applicant's existing obligations and proposed\nborrowing. This indicator shall not be used as an automatic rejection criterion without considering\nrepayment capacity and other relevant circumstances.",
+    "pages": [
+      4
+    ],
+    "part": 1
+  },
+  {
+    "clause_id": "6",
+    "title": "Requested Loan Amount and Tenure",
+    "text": "6. Requested Loan Amount and Tenure",
+    "pages": [
+      4
+    ],
+    "part": 1
+  },
+  {
+    "clause_id": "6.1",
+    "title": "Loan Amount",
+    "text": "6.1 Loan Amount\nThe requested amount must be consistent with the applicant's verified financial position and ability\nto repay.\nThe bank shall consider annual income, existing liabilities, remaining monthly income, proposed\nrepayment, loan purpose and requested tenure when assessing the amount.\nNo application shall be approved solely because the requested amount falls within a general income-\nbased range.",
+    "pages": [
+      4
+    ],
+    "part": 1
+  },
+  {
+    "clause_id": "6.2",
+    "title": "Requested Loan-to-Income Ratio",
+    "text": "6.2 Requested Loan-to-Income Ratio\nThe requested loan-to-income ratio may be used as a supporting indicator.\nRequested Loan-to-Income Ratio (%) = (Requested Loan Amount / Annual Gross Income) × 100\nThis ratio shall not independently determine approval or rejection. The bank shall assess it alongside\nrepayment capacity, existing obligations and the proposed tenure.",
+    "pages": [
+      4
+    ],
+    "part": 1
+  },
+  {
+    "clause_id": "6.3",
+    "title": "Repayment Tenure",
+    "text": "6.3 Repayment Tenure\nThe proposed tenure must fall within the permitted terms of the applicable credit product. The\nrepayment schedule must be assessed to determine whether the resulting instalments are\naffordable.\nWhere the requested amount or tenure produces an unaffordable repayment obligation, the\napplication shall be declined or referred for review, as appropriate.",
+    "pages": [
+      4
+    ],
+    "part": 1
+  },
+  {
+    "clause_id": "7",
+    "title": "Credit Decision Standards",
+    "text": "7. Credit Decision Standards",
+    "pages": [
+      4
+    ],
+    "part": 1
+  },
+  {
+    "clause_id": "7.1",
+    "title": "Approval",
+    "text": "7.1 Approval\nAn application may be approved where:\n1. The applicant satisfies the applicable legal and documentation requirements.\n2. Creditworthiness is acceptable under the bank's standards.\n3. Income and material financial information have been adequately verified.\n4. Repayment capacity satisfies the applicable affordability requirements.\n5. The requested amount and tenure are permitted for the relevant product.\n6. No unresolved material risk concern or mandatory review requirement remains.",
+    "pages": [
+      4,
+      5
+    ],
+    "part": 1
+  },
+  {
+    "clause_id": "7.2",
+    "title": "Rejection",
+    "text": "7.2 Rejection\nAn application shall normally be declined where a material policy requirement is not met and the\ndeficiency cannot be resolved through clarification, additional evidence or an authorised exception.\nGrounds for rejection may include:\n•\nCredit score below the standard minimum, subject to the exception process.\n•\nConfirmed inability to meet the proposed repayment from available income.\n•\nExcessive expense burden or indebtedness under the applicable standards.\n•\nIneligibility for the requested product or repayment tenure.\n•\nMaterial misrepresentation or failure to satisfy mandatory verification requirements.\nThe recorded reason for rejection must identify the applicable policy requirement and the verified\ninformation supporting the decision.",
+    "pages": [
+      5
+    ],
+    "part": 1
+  },
+  {
+    "clause_id": "7.3",
+    "title": "Manual Review",
+    "text": "7.3 Manual Review\nManual review is required where:\n•\nCredit score falls within the borderline band.\n•\nExpense-to-income or repayment-to-surplus ratios fall within a review band.\n•\nRemaining income is zero or negative.\n•\nMaterial financial information is missing, inconsistent or requires clarification.\n•\nCredit history is insufficient for a reliable assessment.\n•\nFinancial indicators produce conflicting conclusions.\n•\nAn exception is requested or the circumstances are not adequately addressed by this policy.\nA referral for review is not, by itself, a rejection.",
+    "pages": [
+      5
+    ],
+    "part": 1
+  },
+  {
+    "clause_id": "8",
+    "title": "Exceptions and Authorisation",
+    "text": "8. Exceptions and Authorisation\nExceptions to standard lending criteria may be considered only where permitted by the bank's\ngovernance arrangements.\nEach exception must include:\n1. The policy requirement for which an exception is sought.\n2. The verified facts and supporting documentation.\n3. The rationale for considering the exception.\n4. An assessment of the applicant's repayment capacity.\n5. The identity of the authorised reviewer and the final determination.\nAn exception must not be granted solely to achieve an approval target or to bypass a material\naffordability concern.",
+    "pages": [
+      5,
+      6
+    ],
+    "part": 1
+  },
+  {
+    "clause_id": "9",
+    "title": "Customer Communication",
+    "text": "9. Customer Communication\nApplicants shall receive clear and accurate communication regarding the outcome of their\napplication.\nWhere an application is declined, the explanation should identify the applicable lending requirement\nand the relevant applicant information supporting the decision.\nWhere additional assessment is required, the applicant shall be informed that the decision is pending\nreview or clarification, rather than being incorrectly told that the application has been declined.\nExplanations must not state that an applicant failed a requirement unless the available evidence and\napplicable policy clause support that conclusion.",
+    "pages": [
+      6
+    ],
+    "part": 1
+  },
+  {
+    "clause_id": "10",
+    "title": "Records and Policy Review",
+    "text": "10. Records and Policy Review\nThe bank shall maintain records of the application information, verification performed, applicable\npolicy requirements, decision rationale, exceptions and final outcome.\nThis policy shall be reviewed periodically to assess whether its lending standards remain appropriate\nand consistent with the bank's risk appetite, product requirements and observed repayment\nperformance.\nAny amendment to a threshold or eligibility requirement must be formally documented, approved by\nthe authorised policy owner and applied consistently.\nEnd of Policy",
+    "pages": [
+      6
+    ],
+    "part": 1
+  }
+]
